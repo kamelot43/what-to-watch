@@ -1,3 +1,5 @@
+/// ready to delete
+
 # Личный проект «{{projectTitle}}»
 
 * Студент: [{{userName}}]({{userProfile}}).
